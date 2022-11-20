@@ -1834,6 +1834,12 @@ a {
     transition: var(--main-transition);
 }
 
+.footer .box .social .facebook:hover,
+.footer .box .social .twitter:hover,
+.footer .box .social .youtube:hover {
+    color: #fff;
+}
+
 .footer .box .social .facebook:hover {
     background-color: #1877f2;
 }
